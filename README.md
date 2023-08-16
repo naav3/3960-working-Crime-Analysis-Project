@@ -1,5 +1,5 @@
 # 3960-working-Crime-Analysis-Project
-In this project, we will be using machine learning algorithms to analyze crime data and identify patterns and trends.Through this project,
+In this project, we  used machine learning algorithms to analyze crime data and identify patterns and trends.Through this project,
 we hope to contribute to the development of more effective and data-driven crime prevention strategies.
 Dataset containing historical crime data for the neighborhood of interest in Edmonton was merged with demographics data of edmonton for year 2016
 data was preprocessed by selecting relevant features and cleaning and transforming the data as necessary.
